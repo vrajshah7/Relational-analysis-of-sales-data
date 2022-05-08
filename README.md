@@ -5,7 +5,7 @@ pre-determined categories in any relevant sales dataset or
 between multiple sales datasets having similar features in 
 between themselves. The datasets must be cleaned and 
 adequately pre-processed into a base form before being 
-applied to the pipeline
+applied to the pipeline.
 
 The code can work on two approaches i.e. single sales data
 and multiple sales data. For better understanding refer to 
